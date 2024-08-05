@@ -1,0 +1,1 @@
+CREATE TABLE employee(eid INT primary key,ename VARCHAR(25),salary DECIMAL(7,2),designation VARCHAR(20),address VARCHAR(40),contact INT8);
